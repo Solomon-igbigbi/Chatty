@@ -2,7 +2,7 @@ import React from 'react'
 
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
-import JoinPage from './pages/chat-page/chat-page.component.jsx'
+import JoinPage from './pages/join-page/join-page.component'
 import ChatPage from './pages/chat-page/chat-page.component.jsx'
 
 const App = () => (
